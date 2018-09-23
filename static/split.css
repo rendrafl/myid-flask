@@ -122,7 +122,7 @@ body.page-template-page-fullsingle-split {
   .fs-split .split-image {
     width: 50%;
     height: 100vh;
-    background-image: url('https://image.freepik.com/free-vector/abstract-background-with-a-watercolor-texture_1048-2144.jpg');
+    background-image: url("../../images/background.jpg");
     background-position: center center;
     background-size: cover; }
     @media (max-width: 800px) {
